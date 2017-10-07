@@ -1,0 +1,20 @@
+baseURL: http://sourcebots.co.uk
+languageCode: en-gb
+title: Sourcebots
+
+staticDir: "static/build"
+
+buildDrafts: false
+buildFuture: true
+buildExpired: true
+
+enableGitInfo: false
+enableRobotsTXT: true
+
+disableHugoGeneratorInject: true
+enableEmoji: true
+MetaDataFormat: yaml
+
+pygmentsCodefencesGuessSyntax: true
+pygmentsCodefences: true
+pygmentsUseClasses: true
