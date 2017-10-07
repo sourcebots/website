@@ -12,8 +12,12 @@ header.masthead {
 
   img.logo {
     width: auto;
-    height: 15vh;
+    height: 10vh;
   }
+}
+
+.bg-purple {
+  background-color: $purple;
 }
 
 nav#nav {
@@ -22,4 +26,8 @@ nav#nav {
       padding: 0 15px;
     }
   }
+}
+
+section > .jumbotron {
+  margin-bottom: 0;
 }

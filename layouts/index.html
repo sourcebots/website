@@ -1,3 +1,42 @@
+{{ define "header" }}
+  <header class="masthead">
+    <img src="/img/logo-white.svg" class="logo" />
+
+    <div class="jumbotron jumbotron-fluid bg-transparent">
+      <div class="container">
+        <h1 class="display-2 text-light font-italic">{{ .Title }}</h1>
+      </div>
+    </div>
+  </header>
+{{ end }}
+
 {{ define "main" }}
-Index
+<section class="bg-light">
+  <div class="jumbotron container bg-transparent">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+<section class="bg-purple">
+  <div class="container p-2 text-center">
+    <h1 class="display-4 text-light m-5">Latest Posts</h1>
+      {{ range first 3 (sort (where .Data.Pages "Section" "blog") ".Date" "desc")}}
+          <div class="card text-center text-dark bg-light mb-4">
+            <div class="card-header">
+              {{ .Title }}
+            </div>
+            {{ if .Params.image }}
+              <img class="card-img-top" src=".Params.image" />
+            {{ end }}
+            <div class="card-body">
+              <p class="card-text">{{ .Summary }}</p>
+            </div>
+            <div class="card-footer text-muted">
+              {{ .Date.Format "January 2 2006" }}
+            </div>
+          </div>
+      {{ end }}
+  </div>
+</section>
 {{ end }}
