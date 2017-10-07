@@ -18,3 +18,7 @@ MetaDataFormat: yaml
 pygmentsCodefencesGuessSyntax: true
 pygmentsCodefences: true
 pygmentsUseClasses: true
+
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
