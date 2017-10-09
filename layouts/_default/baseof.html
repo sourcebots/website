@@ -33,11 +33,12 @@
         </button>
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="navbar-nav m-auto">
+            {{ range where .Site.Pages.ByTitle "Kind" "section" }}
+              {{ partial "nav-item.html" . }}
+            {{ end }}
             {{ range where .Site.Pages.ByTitle "Kind" "page" }}
               {{ if eq .Section "" }}
-                <li class="nav-item">
-                  <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
-                </li>
+                {{ partial "nav-item.html" . }}
               {{ end }}
             {{ end }}
           </ul>
