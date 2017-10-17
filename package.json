@@ -2,15 +2,6 @@
   "name": "sourcebots-website",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {
-    "bootstrap": "4.0.0-beta",
-    "font-awesome": "4.7.0",
-    "jquery": "3.2.1"
-  },
-  "devDependencies": {
-    "browserify": "14.4.0",
-    "node-sass": "4.5.3"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sourcebots/website.git"

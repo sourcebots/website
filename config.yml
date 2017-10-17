@@ -1,24 +1,26 @@
 baseURL: https://sourcebots.github.io/website
 languageCode: en-gb
 title: Sourcebots
+theme: mainroad
+paginate: 10000  # disable pagination
 
-staticDir: "static/build"
+params:
+    subtitle: insert tagline here
+    description: Sourcebots Robotics
+    readmore: true
+    opengraph: true
+    postSections: blog
+    widgets:
+        search: false
+        recent_articles: true
+        tags: true
+        social_github: sourcebots
 
-buildDrafts: false
-buildFuture: true
-buildExpired: true
-
-enableGitInfo: false
-enableRobotsTXT: true
-
-disableHugoGeneratorInject: true
-enableEmoji: true
-MetaDataFormat: yaml
-
-pygmentsCodefencesGuessSyntax: true
-pygmentsCodefences: true
-pygmentsUseClasses: true
-
-disableKinds:
-  - taxonomy
-  - taxonomyTerm
+outputs:
+  home:
+    - "html"
+    - "rss"
+  section:
+    - "html"
+  page:
+    - "html"
