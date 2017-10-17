@@ -16,11 +16,16 @@ params:
         tags: true
         social_github: sourcebots
 
+outputFormats:
+  ical:
+    name: "ics"
+    mediaType: "text/calendar"
+
+
 outputs:
   home:
     - "html"
     - "rss"
   section:
     - "html"
-  page:
-    - "html"
+    - "ics"
