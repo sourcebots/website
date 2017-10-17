@@ -33,4 +33,4 @@ outputs:
 menu:
   main:
     - name: Docs
-    url: https://sourcebots.github.io/docs
+      url: https://sourcebots.github.io/docs
