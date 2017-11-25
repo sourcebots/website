@@ -1,12 +1,12 @@
 baseURL: https://sourcebots.github.io/website
 languageCode: en-gb
-title: Sourcebots
+title: SourceBots
 theme: mainroad
 paginate: 10000  # disable pagination
 
 params:
     subtitle: insert tagline here
-    description: Sourcebots Robotics
+    description: SourceBots Robotics
     readmore: true
     opengraph: true
     postSections: 
