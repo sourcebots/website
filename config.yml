@@ -9,7 +9,8 @@ params:
     description: Sourcebots Robotics
     readmore: true
     opengraph: true
-    postSections: blog
+    postSections: 
+      - blog
     widgets:
         search: false
         recent_articles: true
@@ -34,3 +35,7 @@ menu:
   main:
     - name: Docs
       url: https://sourcebots.github.io/docs
+enableRobotsTXT: true
+disableHugoGeneratorInject: true
+enableEmoji: true
+pygmentsCodeFencesGuessSyntax: true
