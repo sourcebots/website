@@ -1,4 +1,4 @@
-baseURL: https://sourcebots.github.io/website
+baseURL: https://sourcebots-website.netlify.com
 languageCode: en-gb
 title: SourceBots
 theme: mainroad
