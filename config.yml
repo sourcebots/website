@@ -5,6 +5,7 @@ theme: mainroad
 paginate: 10000  # disable pagination
 
 params:
+    themeColour: "#4B35B3"
     subtitle: insert tagline here
     description: SourceBots Robotics
     readmore: true
