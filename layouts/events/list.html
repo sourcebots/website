@@ -5,15 +5,19 @@
     <h1 class="page-header__title">{{ .Title }}</h1>
   </header>
 
-  {{- with .Content }}
-    <div class="page-content">
-      {{ . }}
-    </div>
-  {{- end }}
+  <div class="page-content">
+    {{ .Content }}
+  </div>
 
   {{ partial "calendar.html" . }}
 
+  <div class="page-content">
+  {{ range .Paginator.Pages.ByDate.Reverse }}
+    {{ .Render "summary" }}
+  {{ end }}
+
   {{ partial "pagination.html" . }}
+  </div>
 </main>
 
 {{ partial "sidebar.html" . }}

@@ -2,7 +2,6 @@ baseURL: https://sourcebots-website.netlify.com
 languageCode: en-gb
 title: SourceBots
 theme: mainroad
-paginate: 10000  # disable pagination
 
 params:
     themeColour: "#4B35B3"
