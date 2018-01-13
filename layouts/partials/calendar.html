@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.8.0/fullcalendar.min.css" integrity="sha256-kRo+76XOLNY0UCUL8DQjTPc8zFYVdzyqsVZe8sf3oW8=" crossorigin="anonymous" />
+<link rel="stylesheet" href='{{ relURL "calendar.css" }}' crossorigin="anonymous" />
+
+<div id="calendar"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js" integrity="sha256-ABVkpwb9K9PxubvRrHMkk6wmWcIHUE9eBxNZLXYQ84k=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.8.0/fullcalendar.min.js" integrity="sha256-Dtt+SIj5eAKs1gkR6ZyfvowiEhWZ4JUZBJW4it4Jcgk=" crossorigin="anonymous"></script>
+
+<script type="application/json" id="calendar-data">{{ (partial "calendar_events.json" .) | safeJS }}</script>
+
+<script type="application/javascript" src='{{ relURL "calendar.js" }}'></script>

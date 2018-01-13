@@ -1,0 +1,6 @@
+[
+  {{ range $i, $e := .Pages.ByTitle }}
+    {{ if $i }}, {{ end }}
+    {{ partial "calendar_event.json" . }}
+  {{ end }}
+]

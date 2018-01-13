@@ -1,0 +1,7 @@
+#calendar table {
+    margin-bottom: 0;
+}
+
+#calendar .fc-icon::after {
+    position: initial
+}
