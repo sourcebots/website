@@ -39,3 +39,7 @@ enableRobotsTXT: true
 disableHugoGeneratorInject: true
 enableEmoji: true
 pygmentsCodeFencesGuessSyntax: true
+
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
