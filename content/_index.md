@@ -1,5 +1,5 @@
 ---
-title: SourceBots &mdash; exciting robotics challenges for young people
+title: SourceBots — exciting robotics challenges for young people
 ---
 
 SourceBots is a volunteer organisation which runs exciting robotics challenges
