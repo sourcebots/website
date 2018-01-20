@@ -5,8 +5,8 @@ theme: mainroad
 
 params:
     themeColour: "#4B35B3"
-    subtitle: insert tagline here
-    description: SourceBots Robotics
+    subtitle: Exciting robotics challenges for teams of young people.
+    description: SourceBots Robotics — exciting robotics challenges for teams of young people
     readmore: true
     opengraph: true
     postSections: 
