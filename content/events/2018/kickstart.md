@@ -26,14 +26,14 @@ the specific buildings the event is in.
 
 Here's how the day will go:
 
- ------------- ------------------------------------
-  10:00-10:30   Teams arrive anywhere in this time
-  10:30-11:30   Intro presentation
-  11:30-12:00   Kit Handout
-  12:00-12:45   Lunch
-  12:45-13:30   Game Announcement
-  13:30-18:00   Workshop
- ------------- ------------------------------------
+  Time        | Event
+-------------:|:-----------------------------------
+  10:00-10:30 | Teams arrive anywhere in this time
+  10:30-11:30 | Intro presentation
+  11:30-12:00 | Kit Handout
+  12:00-12:45 | Lunch
+  12:45-13:30 | Game Announcement
+  13:30-18:00 | Workshop
 
 You’re welcome to leave at any point during the workshop if you finish all tasks
 or need to leave early.
