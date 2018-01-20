@@ -9,7 +9,7 @@ params:
     description: SourceBots Robotics — exciting robotics challenges for teams of young people
     readmore: true
     opengraph: true
-    postSections: 
+    postSections:
       - blog
     widgets:
         search: false
