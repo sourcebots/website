@@ -1,5 +1,5 @@
 ---
-title: Sourcebots
+title: SourceBots
 ---
 
 # More coming soon!
