@@ -39,5 +39,5 @@ You’re welcome to leave at any point during the workshop if you finish all tas
 or need to leave early.
 
 
-[kickstart-map]: http://generic.wordpress.soton.ac.uk/sourcebots/wp-content/uploads/sites/244/2017/12/SB2018-kickstart-map-a4.pdf
+[kickstart-map]: https://drive.google.com/open?id=1Sfi08phRu91UThYgFHz0knk-ddW0kfx3
 [food-locations]: https://drive.google.com/open?id=1oEDS1EzvZJOzXiW_P3mUhJI8eTP-ZE1v&usp=sharing
