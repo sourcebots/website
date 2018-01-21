@@ -2,6 +2,9 @@
   "name": "sourcebots-website",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "mdspell --en-gb -ranx 'content/**/*.md'"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sourcebots/website.git"
@@ -11,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/sourcebots/website/issues"
   },
-  "homepage": "https://github.com/sourcebots/website#readme"
+  "homepage": "https://github.com/sourcebots/website#readme",
+  "dependencies": {
+    "markdown-spellcheck": "1.0.0"
+  }
 }
