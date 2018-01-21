@@ -67,7 +67,7 @@ periodic "Tech Days" which teams are invited to attend to get direct support.
 If you would like to contribute to SourceBots, volunteers in the Southampton
 area are always welcome to assist in mentorship and setting up the arena. There
 are also many ways in which you can contribute online, such as writing software
-or preparing tutorial sessions; email us at <sourcebots@gmail.com> if you’d
+or preparing tutorial sessions; email us at <hello@sourcebots.co.uk> if you’d
 like to get involved.
 
 [uos]: https://www.southampton.ac.uk
