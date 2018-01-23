@@ -33,7 +33,7 @@ outputs:
 
 menu:
   main:
-    - name: Docs
+    - name: Documentation
       url: https://sourcebots.github.io/docs
 enableRobotsTXT: true
 disableHugoGeneratorInject: true
