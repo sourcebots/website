@@ -5,7 +5,7 @@ date: 2017-12-16
 
 ## Location
 
-Kicstart is being held on the University of Southampton's Highfield Campus:
+Kickstart is being held on the University of Southampton's Highfield Campus:
 
 > University Road\
 > Southampton\
