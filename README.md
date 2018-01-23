@@ -1,4 +1,4 @@
-# Sourcebots website
+# SourceBots website
 
 [![CircleCI](https://circleci.com/gh/sourcebots/website.svg?style=svg)](https://circleci.com/gh/sourcebots/website)
 
