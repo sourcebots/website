@@ -34,7 +34,7 @@ outputs:
 menu:
   main:
     - name: Docs
-      url: https://sourcebots.github.io/docs
+      url: https://docs.sourcebots.co.uk
 enableRobotsTXT: true
 disableHugoGeneratorInject: true
 enableEmoji: true
