@@ -5,7 +5,7 @@ theme: mainroad
 
 params:
     themeColour: "#4B35B3"
-    subtitle: Exciting robotics challenges for teams of young people.
+    subtitle: Exciting robotics challenges for teams of young people
     description: SourceBots Robotics — exciting robotics challenges for teams of young people
     readmore: true
     opengraph: true
