@@ -3,6 +3,12 @@ title: Kickstart 2018
 date: 2017-12-16
 ---
 
+Kickstart is the first event of the year and introduces the competition. It
+provides the first opportunity for the teams meet each other and is also when we
+hand out the kits.
+
+<!--more-->
+
 ## Location
 
 Kickstart is being held on the University of Southampton's Highfield Campus:
