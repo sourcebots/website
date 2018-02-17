@@ -12,11 +12,17 @@
   {{ partial "calendar.html" . }}
 
   <div class="page-content">
-  {{ range .Paginator.Pages.ByDate.Reverse }}
-    {{ .Render "summary" }}
-  {{ end }}
+    {{ $ics := .AlternativeOutputFormats.Get "ics" }}
 
-  {{ partial "pagination.html" . }}
+    Subscribe to the calendar: <a href="{{ $ics.RelPermalink }}">{{ $ics.Permalink }}</a>.
+  </div>
+
+  <div class="page-content">
+    {{ range .Paginator.Pages.ByDate.Reverse }}
+      {{ .Render "summary" }}
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
   </div>
 </main>
 
