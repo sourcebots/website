@@ -35,6 +35,8 @@ menu:
   main:
     - name: Documentation
       url: https://docs.sourcebots.co.uk
+
+buildFuture: true
 enableRobotsTXT: true
 disableHugoGeneratorInject: true
 enableEmoji: true
