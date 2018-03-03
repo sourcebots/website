@@ -1,7 +1,10 @@
 {
   "title": "{{ .Title }}",
   "start": "{{ .Date.Format "2006-01-02T15:04:05" }}",
-  "allDay": true,
+  "allDay": {{ jsonify (default true .Params.all_day) }},
   "url": "{{ .RelPermalink }}",
   "color": "{{ .Site.Params.themeColour }}"
+  {{ if .Params.end_date }}
+    ,"end": "{{ dateFormat  "2006-01-02T15:04:05" .Params.end_date }}"
+  {{ end }}
 }
