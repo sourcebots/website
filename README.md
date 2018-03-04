@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/sourcebots/website.svg?style=svg)](https://circleci.com/gh/sourcebots/website)
 
-URL: https://sourcebots-website.netlify.com
+URL: https://sourcebots.co.uk
 
 ## Requirements
 - [Hugo](https://gohugo.io) (>=0.29)
