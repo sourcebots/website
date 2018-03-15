@@ -1,7 +1,7 @@
 {{ $location := index .Site.Data.locations (.Get 0) }}
 
 <h2>Location</h2>
-<p>The tech day will be held in <a href="{{ $location.link }}">{{ $location.name }}</a>{{ if $location.detail }} at {{ $location.detail }}{{ end }}</p>
+<p>The tech day will be held in <a href="{{ $location.link }}">{{ $location.name }}</a>{{ if $location.detail }} at {{ $location.detail }}{{ end }}.</p>
 
 <blockquote>
     <p>{{ replace $location.address "\n" "<br />" | safeHTML }}</p>
