@@ -22,7 +22,7 @@ University, including teachers and professional engineers.
 
 ## Robotics Summer Schools
 
-Each year, SourceBots works with the Smallpiece Trust to hosted an annual
+Each year, SourceBots works with the Smallpeice Trust to hosted an annual
 robotics competition for Year 12 students (age 16–17) at the University of
 Southampton.
 
