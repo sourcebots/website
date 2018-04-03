@@ -10,7 +10,7 @@ all_day: false
 ## Schedule
 The competition will run over 2 days, starting on Saturday morning, and finishing on Sunday afternoon. Exact times to be confirmed.
 
-{{% media-consent%}}
+{{% media-consent %}}
 
 {{% electronics-laptop-request %}}
 
