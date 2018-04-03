@@ -29,6 +29,7 @@ outputs:
     - "rss"
   section:
     - "html"
+    - "rss"
     - "ics"
 
 menu:
