@@ -8,7 +8,7 @@ work together to solve problems as well as to manage their time and prioritise
 their efforts.
 
 While based at the [University of Southampton][uos]'s [Department of Electronics
-and Computer Science][ecs] and lead by its students, SourceBots contributors
+and Computer Science][ecs] and led by its students, SourceBots contributors
 include teachers and professional engineers.
 
 [uos]: https://www.southampton.ac.uk
