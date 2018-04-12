@@ -1,4 +1,4 @@
-baseURL: https://sourcebots-website.netlify.com
+baseURL: https://sourcebots.co.uk
 languageCode: en-gb
 title: SourceBots
 theme: mainroad
@@ -29,6 +29,7 @@ outputs:
     - "rss"
   section:
     - "html"
+    - "rss"
     - "ics"
 
 menu:
