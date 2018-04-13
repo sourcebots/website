@@ -16,6 +16,7 @@ params:
         recent_articles: true
         tags: true
         social_github: sourcebots
+        events: true
 
 outputFormats:
   ical:
