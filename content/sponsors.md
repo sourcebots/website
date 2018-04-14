@@ -1,5 +1,6 @@
 ---
 title: Sponsors
+menu: main
 ---
 
 When running the competition and any public-facing parts of our organisation, it
