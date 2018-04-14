@@ -1,5 +1,5 @@
 ---
-title: Our Sponsors
+title: Sponsors
 ---
 
 When running the competition and any public-facing parts of our organisation, it
