@@ -60,6 +60,7 @@ of processing chips across all kinds of technology.
 
 They sponsor a number of Smallpeice programmes including the Summer School.
 
+
 [larger-competition]: /about/#longer-robotics-competition
 [summer-school]: /about/#robotics-summer-schools
 
