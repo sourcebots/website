@@ -17,7 +17,8 @@ These sponsors support all our activities, both running our
 {{< figure src="/img/essential-knowledge/sponsors/uos.svg" alt="University of Southampton Logo" width="200" >}}
 
 We are sponsored by the University of Southampton Electronics and Computer
-Science Department so that we can be a source of recruitment for potential STEM
+Science Department so that we can be a source of recruitment for potential
+<abbr title="Science, Technology, Engineering and Mathematics">STEM</abbr>
 students, currently in their A-level/sixth-form years and looking at
 universities for Electronics, Computer Science, or Engineering courses.
 
@@ -41,9 +42,10 @@ These sponsors support us in running the week-long Smallpeice [Summer School][su
 {{< figure src="/img/essential-knowledge/sponsors/smallpeice.svg" alt="Smallpeice Logo" width="200" >}}
 
 The Smallpeice Trust is an independent charity which works with universities and
-other institutions to provide STEM programmes to children in schools (typically
-ages 12-18) and allow them to get involved with and excited about a career in
-STEM subjects.
+other institutions to provide <abbr title="Science, Technology, Engineering and
+Mathematics">STEM</abbr> programmes to children in schools (typically ages
+12-18) and allow them to get involved with and excited about a career in STEM
+subjects.
 
 They support our Summer School by getting the kids involved in the first place
 and paying for some aspects of the competition proceedings (e.g. kits,
