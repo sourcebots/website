@@ -47,9 +47,9 @@ Mathematics">STEM</abbr> programmes to children in schools (typically ages
 12-18) and allow them to get involved with and excited about a career in STEM
 subjects.
 
-They support our Summer School by getting the kids involved in the first place
-and paying for some aspects of the competition proceedings (e.g. kits,
-volunteers if there is budget for it).
+They provide the logistical support for the young people who attend the Summer
+School so that SourceBots can focus on providing the technical content and
+competition aspects.
 
 ### [ARM][arm-website]
 
