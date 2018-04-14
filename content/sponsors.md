@@ -14,7 +14,7 @@ These sponsors support all our activities, both running our
 
 ### [University of Southampton][uos-website]
 
-{{< figure src="/img/essential-knowledge/sponsors/uos.svg" alt="University of Southampton Logo" width="200" >}}
+{{< figure class="supporter-logo" src="/img/sponsors/uos.svg" alt="University of Southampton Logo" width="200" >}}
 
 We are sponsored by the University of Southampton Electronics and Computer
 Science Department so that we can be a source of recruitment for potential
@@ -24,7 +24,7 @@ universities for Electronics, Computer Science, or Engineering courses.
 
 ### [Farnell element14][farnell-website]
 
-{{< figure src="/img/essential-knowledge/sponsors/element14.svg" alt="element14 Logo" width="200" >}}
+{{< figure class="supporter-logo" src="/img/sponsors/element14.svg" alt="element14 Logo" width="200" >}}
 
 Farnell supports us by providing components for the kits.
 
@@ -39,7 +39,7 @@ These sponsors support us in running the week-long Smallpeice [Summer School][su
 
 ### [Smallpeice Trust][smallpeice-website]
 
-{{< figure src="/img/essential-knowledge/sponsors/smallpeice.svg" alt="Smallpeice Logo" width="200" >}}
+{{< figure class="supporter-logo" src="/img/sponsors/smallpeice.svg" alt="Smallpeice Logo" width="200" >}}
 
 The Smallpeice Trust is an independent charity which works with universities and
 other institutions to provide <abbr title="Science, Technology, Engineering and
@@ -53,7 +53,7 @@ volunteers if there is budget for it).
 
 ### [ARM][arm-website]
 
-{{< figure src="/img/essential-knowledge/sponsors/arm.svg" alt="ARM Logo" width="200" >}}
+{{< figure class="supporter-logo" src="/img/sponsors/arm.svg" alt="ARM Logo" width="200" >}}
 
 ARM is an international company which develops the architecture used by billions
 of processing chips across all kinds of technology.
