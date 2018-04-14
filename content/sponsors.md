@@ -11,8 +11,9 @@ our organisation.
 
 ## Sponsors for SourceBots
 
-These sponsors support us in running the main competition and the Smallpeice
-Summer School.
+These sponsors support all our activities, both running our
+[larger competition][larger-competition] and the Smallpeice
+[Summer School][summer-school].
 
 ### [University of Southampton][uos-website]
 
@@ -36,7 +37,7 @@ volunteers).
 
 ## Additional sponsors for Smallpeice Summer School
 
-These sponsors support us in running the week-long Smallpeice Summer School.
+These sponsors support us in running the week-long Smallpeice [Summer School][summer-school].
 
 ### [Smallpeice Trust][smallpeice-website]
 
@@ -59,6 +60,9 @@ ARM is an international company which develops the architecture used by billions
 of processing chips across all kinds of technology.
 
 They sponsor a number of Smallpeice programmes including the Summer School.
+
+[larger-competition]: /about/#longer-robotics-competition
+[summer-school]: /about/#robotics-summer-schools
 
 [uos-website]: https://www.ecs.soton.ac.uk/about
 [farnell-website]: http://uk.farnell.com/about-us
