@@ -3,13 +3,10 @@ title: Sponsors
 menu: main
 ---
 
-When running the competition and any public-facing parts of our organisation, it
-is important to bear in mind and give credit to the persons/organisations that
-support us; in other words putting their logo on things and thanking them where
-thanks are due, because their support is very important to the functioning of
-our organisation.
+SourceBots relies on the tireless effort of its volunteers and generous support
+from its sponsors in order to operate.
 
-## Sponsors for SourceBots
+## General Sponsors
 
 These sponsors support all our activities, both running our
 [larger competition][larger-competition] and the Smallpeice
@@ -35,7 +32,7 @@ trying to do similar things (i.e. running robotics competitions, building
 competition-running software, running a STEM outreach programme with
 volunteers).
 
-## Additional sponsors for Smallpeice Summer School
+## Smallpeice Summer School
 
 These sponsors support us in running the week-long Smallpeice [Summer School][summer-school].
 
