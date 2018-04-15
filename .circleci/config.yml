@@ -21,5 +21,4 @@ jobs:
                 command: ./scripts/build.sh
             - run:
                 name: Run Tests
-                command: npm run ci-test
-
+                command: npm run test
