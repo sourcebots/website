@@ -18,7 +18,8 @@ working lives.
 SourceBots is based at the [University of Southampton][uos]’s [Department of
 Electronics and Computer Science][ecs] and is lead by its students, though is an
 independent organisation. It also benefits from contributors outside the
-University, including teachers and professional engineers.
+University, including teachers and professional engineers as well as a number of
+generous [sponsors][sponsors].
 
 ## Robotics Summer Schools
 
@@ -72,3 +73,4 @@ like to get involved.
 
 [uos]: https://www.southampton.ac.uk
 [ecs]: https://www.ecs.soton.ac.uk
+[sponsors]: /sponsors

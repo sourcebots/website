@@ -1,0 +1,10 @@
+/*
+ * Note: these are sponsor logos, however if we call the class that then some
+ * over-zealous adblock extensions hide the logos, which we don't want.
+ */
+figure.supporter-logo {
+    float: right;
+    margin-left: 2em;
+    margin-top: -3.5em;
+    padding-right: 0.5em;
+}
