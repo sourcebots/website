@@ -6,36 +6,21 @@ menu: main
 SourceBots relies on the tireless effort of its volunteers and generous support
 from its sponsors in order to operate.
 
-## General Sponsors
-
-These sponsors support all our activities, both running our
-[larger competition][larger-competition] and the Smallpeice
-[Summer School][summer-school].
-
 ### [University of Southampton][uos-website]
 
 {{< figure class="supporter-logo" src="/img/sponsors/uos.svg" alt="University of Southampton Logo" width="200" >}}
 
-We are sponsored by the University of Southampton Electronics and Computer
-Science Department so that we can be a source of recruitment for potential
-<abbr title="Science, Technology, Engineering and Mathematics">STEM</abbr>
-students, currently in their A-level/sixth-form years and looking at
-universities for Electronics, Computer Science, or Engineering courses.
+The University of Southampton, in particular the Electronics and Computer
+Science Department, support SourceBots by providing both funding and other
+resources to help SourceBots organise our competitions. The university is also
+the venue for the competitions.
 
 ### [Farnell element14][farnell-website]
 
 {{< figure class="supporter-logo" src="/img/sponsors/element14.svg" alt="element14 Logo" width="200" >}}
 
-Farnell supports us by providing components for the kits.
-
-We write blog posts for their website for other societies or organisations
-trying to do similar things (i.e. running robotics competitions, building
-competition-running software, running a STEM outreach programme with
-volunteers).
-
-## Smallpeice Summer School
-
-These sponsors support us in running the week-long Smallpeice [Summer School][summer-school].
+Farnell support SourceBots by providing components for the electronics kits
+which are used by the competing teams.
 
 ### [Smallpeice Trust][smallpeice-website]
 
@@ -47,9 +32,9 @@ Mathematics">STEM</abbr> programmes to children in schools (typically ages
 12-18) and allow them to get involved with and excited about a career in STEM
 subjects.
 
-They provide the logistical support for the young people who attend the Summer
-School so that SourceBots can focus on providing the technical content and
-competition aspects.
+They provide the organisational support for the young people who attend the
+Summer School so that SourceBots can focus on providing the technical content
+and competition aspects.
 
 
 [larger-competition]: /about/#longer-robotics-competition
