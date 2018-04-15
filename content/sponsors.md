@@ -51,15 +51,6 @@ They provide the logistical support for the young people who attend the Summer
 School so that SourceBots can focus on providing the technical content and
 competition aspects.
 
-### [ARM][arm-website]
-
-{{< figure class="supporter-logo" src="/img/sponsors/arm.svg" alt="ARM Logo" width="200" >}}
-
-ARM is an international company which develops the architecture used by billions
-of processing chips across all kinds of technology.
-
-They sponsor a number of Smallpeice programmes including the Summer School.
-
 
 [larger-competition]: /about/#longer-robotics-competition
 [summer-school]: /about/#robotics-summer-schools
@@ -67,4 +58,3 @@ They sponsor a number of Smallpeice programmes including the Summer School.
 [uos-website]: https://www.ecs.soton.ac.uk/about
 [farnell-website]: http://uk.farnell.com/about-us
 [smallpeice-website]: https://www.smallpeicetrust.org.uk/about-us
-[arm-website]: https://www.arm.com/company
