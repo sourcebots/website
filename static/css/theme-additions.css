@@ -10,6 +10,13 @@ figure.supporter-logo {
 }
 
 /*
+ * Show inline links more clearly
+ */
+p a {
+    color: #4B35B3;
+}
+
+/*
  * Competition live styling
  */
 .competition-livestream {
