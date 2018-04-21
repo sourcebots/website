@@ -9,6 +9,8 @@ params:
     description: SourceBots Robotics — exciting robotics challenges for teams of young people
     readmore: true
     opengraph: true
+    show_stream: false
+    competition_livestream_url: https://www.facebook.com/facebook/videos/10153231379946729/
     postSections:
       - blog
     widgets:
@@ -39,6 +41,8 @@ menu:
   main:
     - name: Documentation
       url: https://docs.sourcebots.co.uk
+    - name: Competition Live
+      url: /comp/
 
 buildFuture: true
 enableRobotsTXT: true

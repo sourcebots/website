@@ -1,0 +1,22 @@
+<div class="competition-livestream">
+    <h1>Competition Live!</h1>
+
+    {{ if .Site.Params.show_stream }}
+        <iframe
+            src="https://www.facebook.com/plugins/video.php?{{ (querify "href" .Site.Params.competition_livestream_url) | safeURL }}&width=500&show_text=false&height=280&appId"
+            width="645"
+            height="363"
+            style="border:none;overflow:hidden"
+            scrolling="no"
+            frameborder="0"
+            allowTransparency="true"
+            allow="encrypted-media"
+            allowFullScreen="true"
+        ></iframe>
+    {{ end }}
+
+    <p>The competition is underway at the University of Southampton.</p>
+    <p>See the <a href="/comp/">latest scores</a>.</p>
+</div>
+
+<h2>About Us</h2>

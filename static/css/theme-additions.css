@@ -8,3 +8,20 @@ figure.supporter-logo {
     margin-top: -3.5em;
     padding-right: 0.5em;
 }
+
+/*
+ * Show inline links more clearly
+ */
+p a {
+    color: #4B35B3;
+}
+
+/*
+ * Competition live styling
+ */
+.competition-livestream {
+    margin-bottom: 1em;
+}
+.competition-livestream h1 {
+    margin-bottom: 1em;
+}
