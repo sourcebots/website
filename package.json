@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "spellcheck": "mdspell --en-gb --report --ignore-acronyms --ignore-numbers --no-suggestions 'content/**/*.md'",
-    "broken-link-local": "blcl --recursive --ordered --exclude-external ./public/",
+    "broken-link-local": "blcl --recursive --ordered --exclude-external --exclude='/comp/' ./public/",
     "test": "npm run spellcheck && npm run broken-link-local"
   },
   "repository": {
