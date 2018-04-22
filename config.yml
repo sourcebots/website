@@ -9,8 +9,8 @@ params:
     description: SourceBots Robotics — exciting robotics challenges for teams of young people
     readmore: true
     opengraph: true
-    show_stream: false
-    competition_livestream_url: https://www.facebook.com/facebook/videos/10153231379946729/
+    show_stream: true
+    competition_livestream_url: https://www.facebook.com/SUSUtv/videos/vb.159049780794219/1891818877517292/?type=3&theater
     postSections:
       - blog
     widgets:
