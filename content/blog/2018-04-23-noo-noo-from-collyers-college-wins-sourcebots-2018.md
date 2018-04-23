@@ -30,7 +30,7 @@ weekend.
 Once the league was complete, the results from the league seeded a knockout
 stage. While every robot entered the knockouts, it all came down to the final
 match between _[Noo Noo][CLY-robot-image]_ from [Collyer's][collyers] team
-_SCC_, _[Out of the blue][RGS-robot-image]_ from [RGS Guildford][rgs-guildford],
+_SCC_, _[Out Of The Blue][RGS-robot-image]_ from [RGS Guildford][rgs-guildford],
 _[Brenda][BPV2-robot-image]_ from [Barton Peveril][barton-peveril]'s second team
 and [the robot][BRK-robot-image] from team _Bodgenhurst_ from
 [Brockenhurst][brockenhurst].
@@ -46,12 +46,12 @@ and [the robot][BRK-robot-image] from team _Bodgenhurst_ from
 [RGS-robot-image]: /img/2018/robots/RGS.jpg
 
 The final promised to be interesting as a variety of different approaches were
-taken by the participating robots. _Out of the Blue_, _Brenda_ and
+taken by the participating robots. _Out Of The Blue_, _Brenda_ and
 _Bodgenhurst_'s robot each attempted to capture tokens in their open front
 halves by driving up to tokens with their arms open, before closing them around
 the tokens.
 
-_Out of the Blue_ extended this strategy by first driving through the tokens in
+_Out Of The Blue_ extended this strategy by first driving through the tokens in
 their own zone with their arms closed, which pushed some of the undesirable
 tokens out of their zone before they collected their own tokens. This had given
 the robot a strong position after the league matches; by ranking second they
