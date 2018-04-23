@@ -10,7 +10,6 @@ params:
     readmore: true
     opengraph: true
     show_stream: true
-    competition_livestream_url: https://www.facebook.com/SUSUtv/videos/vb.159049780794219/1891818877517292/?type=3&theater
     postSections:
       - blog
     widgets:
