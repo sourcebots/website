@@ -5,9 +5,9 @@ date: 2018-04-23
 
 SourceBots 2018 reached its exciting climax this weekend as the teams from
 across the south coast gathered at the University of Southampton for the
-competition event. The two-day event saw their robots compete in forty matches
-to determine which would be crowned champion in this year's game
-_Pirate Islands_.
+competition event. The two-day event saw their fully autonomous robots compete
+in forty matches to determine which would be crowned champion in this year's
+game _Pirate Islands_.
 
 <!--more-->
 
