@@ -17,10 +17,10 @@ with interviews and a studio team.
 
 ## Prizes
 
-| Prize          | Team                            |
-| -------------- | ------------------------------- |
-| 1st Place      | Collyer's — SCC                 |
-| 2nd Place      | RGS Guildford — Out Of The Blue |
-| 3rd Place      | Brokenhurst — Bodgenhurst       |
-| Most Ambitious | RGS Guildford — Out Of The Blue |
-| Best Looking   | Barton Pevril — Orion           |
+| Prize                 | Team                            |
+| --------------------- | ------------------------------- |
+| 1<sup>st</sup> Place  | Collyer's — SCC                 |
+| 2<sup>nd</sup> Place  | RGS Guildford — Out Of The Blue |
+| 3<sup>rd</sup> Place  | Brokenhurst — Bodgenhurst       |
+| Most Ambitious        | RGS Guildford — Out Of The Blue |
+| Best Looking          | Barton Pevril — Orion           |
