@@ -15,13 +15,3 @@ figure.supporter-logo {
 p a {
     color: #4B35B3;
 }
-
-/*
- * Competition live styling
- */
-.competition-livestream {
-    margin-bottom: 1em;
-}
-.competition-livestream h1 {
-    margin-bottom: 1em;
-}
