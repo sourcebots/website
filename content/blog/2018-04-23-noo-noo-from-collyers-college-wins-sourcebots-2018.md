@@ -59,6 +59,16 @@ zone, which granted their victory.
 
 [mecanum-wheels]: https://en.wikipedia.org/wiki/Mecanum_wheel
 
+### Prizes
+
+| Prize                 | Team                            |
+| --------------------- | ------------------------------- |
+| 1<sup>st</sup> Place  | Collyer's — SCC                 |
+| 2<sup>nd</sup> Place  | RGS Guildford — Out Of The Blue |
+| 3<sup>rd</sup> Place  | Brokenhurst — Bodgenhurst       |
+| Most Ambitious        | RGS Guildford — Out Of The Blue |
+| Best Looking          | Barton Pevril — Orion           |
+
 ### Livestream
 
 This year's competition was streamed live on Facebook, thanks to the
@@ -70,13 +80,3 @@ with interviews and a studio team.
 ### Team Scores
 
 {{% event-teams "SB2018" %}}
-
-### Prizes
-
-| Prize                 | Team                            |
-| --------------------- | ------------------------------- |
-| 1<sup>st</sup> Place  | Collyer's — SCC                 |
-| 2<sup>nd</sup> Place  | RGS Guildford — Out Of The Blue |
-| 3<sup>rd</sup> Place  | Brokenhurst — Bodgenhurst       |
-| Most Ambitious        | RGS Guildford — Out Of The Blue |
-| Best Looking          | Barton Pevril — Orion           |
