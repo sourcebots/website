@@ -47,5 +47,3 @@ The competition will run over 2 days, starting on Saturday morning at 10:00am, a
 {{% electronics-laptop-request %}}
 
 {{% food-southampton %}}
-
-{{% facebook-video src="https://www.facebook.com/SUSUtv/videos/vb.159049780794219/1891818877517292/?type=3&theater" title="Livestream" %}}
