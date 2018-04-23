@@ -4,7 +4,7 @@ date: 2018-04-23
 ---
 
 SourceBots 2018 reached its exciting climax this weekend as the teams from
-accross the south coast gathered at the University of Southampton for the
+across the south coast gathered at the University of Southampton for the
 competition event. The two-day event saw their robots compete in forty matches
 to determine which would be crowned champion in this year's game
 _Pirate Islands_.
@@ -14,7 +14,7 @@ _Pirate Islands_.
 The game required the robots to remove opposing tokens from their scoring zone
 and collect their own tokens from the opposing side of the 8×8m arena. As any of
 the four robots in the arena could move any token, this required the robots to
-detect which tokens were whered to react to changes.
+detect which tokens were where and to react to changes.
 
 The matches were broken into two main sections. First was a league stage with
 matches spaced throughout the weekend and interspersed with "tinker time" which
