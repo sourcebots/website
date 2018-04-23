@@ -18,7 +18,8 @@ game _Pirate Islands_.
 The game required the robots to remove other robot's tokens from their scoring
 zone and collect their own tokens from the opposing side of the 8×8m arena. As
 any of the four robots in the arena could move any token, this required the
-robots to detect which tokens were where and to react to changes.
+robots to detect which tokens were where and to react to changes. Full details
+can be found in the [rules](/documents/2018/rules.pdf).
 
 The matches were broken into two main sections. First was a league stage with
 matches spaced throughout the weekend and interspersed with "tinker time" which
