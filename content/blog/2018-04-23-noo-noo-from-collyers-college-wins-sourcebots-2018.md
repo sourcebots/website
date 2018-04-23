@@ -74,6 +74,9 @@ zone, which granted their victory.
 | Most Ambitious        | RGS Guildford — Out Of The Blue |
 | Best Looking          | Barton Peveril — Orion          |
 
+Further details of the points earned by each team are available on the
+[competition event page](/events/2018/competition#league-scores).
+
 ### Livestream
 
 This year's knockout matches were streamed live on Facebook by [SUSU TV][susu-tv]
