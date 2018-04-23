@@ -17,7 +17,7 @@ with interviews and a studio team.
 
 {{% event-teams "SB2018" %}}
 
-## Prizes
+### Prizes
 
 | Prize                 | Team                            |
 | --------------------- | ------------------------------- |
