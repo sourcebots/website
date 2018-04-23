@@ -31,10 +31,10 @@ match between _[Noo Noo][CLY-robot-image]_ from [Collyer's][collyers] team
 _SCC_, _[Out of the blue][RGS-robot-image]_ from [RGS Guildford][rgs-guidlford],
 _[Brenda][BPV2-robot-image]_ from [Barton Peveril][barton-peveril]'s second team
 and [the robot][BRK-robot-image] from team _Bodgenhurst_ from
-[Brokenhurst][brokenhurst].
+[Brockenhurst][brockenhurst].
 
 [barton-peveril]: https://www.barton-peveril.ac.uk/
-[brokenhurst]: https://www.brock.ac.uk/
+[brockenhurst]: https://www.brock.ac.uk/
 [collyers]: http://www.collyers.ac.uk/
 [rgs-guidlford]: https://www.rgs-guildford.co.uk/
 
@@ -67,7 +67,7 @@ zone, which granted their victory.
 | --------------------- | ------------------------------- |
 | 1<sup>st</sup> Place  | Collyer's — SCC                 |
 | 2<sup>nd</sup> Place  | RGS Guildford — Out Of The Blue |
-| 3<sup>rd</sup> Place  | Brokenhurst — Bodgenhurst       |
+| 3<sup>rd</sup> Place  | Brockenhurst — Bodgenhurst      |
 | Most Ambitious        | RGS Guildford — Out Of The Blue |
 | Best Looking          | Barton Peveril — Orion          |
 
