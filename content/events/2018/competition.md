@@ -58,7 +58,8 @@ Robots have to avoid each other, as well as four pedestals placed between the
 scoring zones (see arena diagram).
 
 Robots score two points for each of their own tokens in their scoring zone, but
-lose a point for each other token in their scoring zone.
+lose a point for each other token in their scoring zone. Robots also score a
+point for leaving their starting zone.
 
 ## League Scores
 
