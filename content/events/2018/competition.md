@@ -59,7 +59,8 @@ scoring zones (see arena diagram).
 
 Robots score two points for each of their own tokens in their scoring zone, but
 lose a point for each other token in their scoring zone. Robots also score a
-point for leaving their starting zone.
+point for leaving their starting zone. Full details can be found in the
+[rules](/documents/2018/rules.pdf).
 
 ## League Scores
 
