@@ -1,5 +1,5 @@
 ---
-title: “Noo Noo” from Colleyr's College wins SourceBots 2018
+title: “Noo Noo” from Collyer's College wins SourceBots 2018
 date: 2018-04-23
 ---
 
