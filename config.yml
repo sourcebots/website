@@ -41,8 +41,6 @@ menu:
   main:
     - name: Documentation
       url: https://docs.sourcebots.co.uk
-    - name: Competition Live
-      url: /comp/
 
 buildFuture: true
 enableRobotsTXT: true
