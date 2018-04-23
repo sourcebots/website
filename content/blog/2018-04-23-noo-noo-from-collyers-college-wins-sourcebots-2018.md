@@ -28,7 +28,7 @@ weekend.
 Once the league was complete, the results from the league seeded a knockout
 stage. While every robot entered the knockouts, it all came down to the final
 match between _[Noo Noo][CLY-robot-image]_ from [Collyer's][collyers] team
-_SSC_, _[Out of the blue][RGS-robot-image]_ from [RGS Guildford][rgs-guidlford],
+_SCC_, _[Out of the blue][RGS-robot-image]_ from [RGS Guildford][rgs-guidlford],
 _[Brenda][BPV2-robot-image]_ from [Barton Pevril][barton-pevril]'s second team
 and [the robot][BRK-robot-image] from team _Bodgenhurst_ from
 [Brokenhurst][brokenhurst].
