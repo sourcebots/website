@@ -74,8 +74,10 @@ zone, which granted their victory.
 
 ### Livestream
 
-This year's competition was streamed live on Facebook, thanks to the
-university's SUSU TV team, who gave us a great quality live stream, complete
-with interviews and a studio team.
+This year's knockout matches were streamed live on Facebook by [SUSU TV][susu-tv]
+who did an amazing job, which included setting up a small studio at the venue
+and interviewing some of the competitors.
 
 {{% facebook-video src="https://www.facebook.com/SUSUtv/videos/vb.159049780794219/1891818877517292/?type=3&theater" %}}
+
+[susu-tv]: https://www.facebook.com/SUSUtv
