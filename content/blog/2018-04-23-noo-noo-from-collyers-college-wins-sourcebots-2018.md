@@ -78,7 +78,3 @@ university's SUSU TV team, who gave us a great quality live stream, complete
 with interviews and a studio team.
 
 {{% facebook-video src="https://www.facebook.com/SUSUtv/videos/vb.159049780794219/1891818877517292/?type=3&theater" %}}
-
-### Team Scores
-
-{{% event-teams "SB2018" %}}
