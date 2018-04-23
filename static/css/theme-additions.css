@@ -15,3 +15,12 @@ figure.supporter-logo {
 p a {
     color: #4B35B3;
 }
+
+/*
+ * Float inline images
+ */
+p img.right {
+    float: right;
+    margin: 0.5em;
+    margin-left: 1em;
+}

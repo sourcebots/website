@@ -13,6 +13,8 @@ game _Pirate Islands_.
 
 ### Competition
 
+[<img src="/img/2018/arena.png" alt="A diagram of the arena" class="right" width="30%">](/img/2018/arena.png "A diagram of the arena, click to see larger")
+
 The game required the robots to remove other robot's tokens from their scoring
 zone and collect their own tokens from the opposing side of the 8×8m arena. As
 any of the four robots in the arena could move any token, this required the
