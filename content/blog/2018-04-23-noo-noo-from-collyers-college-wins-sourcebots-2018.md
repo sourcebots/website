@@ -52,7 +52,7 @@ the tokens.
 _Out of the Blue_ extended this strategy by first driving through the tokens in
 their own zone with their arms closed, which pushed some of the undesirable
 tokens out of their zone before they collected their own tokens. This had given
-the robot a strong position after the league matches, by ranking second they
+the robot a strong position after the league matches; by ranking second they
 went straight through to the semi-finals.
 
 In the end however it was _Noo Noo_'s great use of its [Mecanum
