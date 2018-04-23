@@ -15,8 +15,8 @@ This years competition was streamed live on Facebook, thanks to the university's
 
 | Prize          | Team                            |
 | -------------- | ------------------------------- |
-| 1st Place      | Collyer's - SCC                 |
-| 2nd Place      | RGS Guildford - Out Of The Blue |
-| 3rd Place      | Brokenhurst - Bodgenhurst       |
-| Most Ambitious | RGS Guildford - Out Of The Blue |
-| Best Looking   | Barton Pevril - Orion           |
+| 1st Place      | Collyer's — SCC                 |
+| 2nd Place      | RGS Guildford — Out Of The Blue |
+| 3rd Place      | Brokenhurst — Bodgenhurst       |
+| Most Ambitious | RGS Guildford — Out Of The Blue |
+| Best Looking   | Barton Pevril — Orion           |
