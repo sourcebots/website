@@ -49,7 +49,7 @@ to capture tokens in their open front halves by driving up to tokens with their
 arms open, before closing them around the tokens.
 
 _Out of the Blue_ extended this strategy by first driving through the tokens in
-their own zone with their arms closed, which pushed some of the undesirably
+their own zone with their arms closed, which pushed some of the undesirable
 tokens out of their zone before they collected their own tokens. This had given
 the robot a strong position after the league matches, by ranking second they
 went straight through to the semi-finals.
