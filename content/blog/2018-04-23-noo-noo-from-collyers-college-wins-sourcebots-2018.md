@@ -38,10 +38,10 @@ and [the robot][BRK-robot-image] from team _Bodgenhurst_ from
 [collyers]: http://www.collyers.ac.uk/
 [rgs-guildford]: https://www.rgs-guildford.co.uk/
 
-[BPV2-robot-image]: /img/robots-2018/BPV2.jpg
-[BRK-robot-image]: /img/robots-2018/BRK.jpg
-[CLY-robot-image]: /img/robots-2018/CLY.jpg
-[RGS-robot-image]: /img/robots-2018/RGS.jpg
+[BPV2-robot-image]: /img/2018/robots/BPV2.jpg
+[BRK-robot-image]: /img/2018/robots/BRK.jpg
+[CLY-robot-image]: /img/2018/robots/CLY.jpg
+[RGS-robot-image]: /img/2018/robots/RGS.jpg
 
 The final promised to be interesting as a variety of different approaches were
 taken by the participating robots. _Out of the Blue_, _Brenda_ and
