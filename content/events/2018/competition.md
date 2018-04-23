@@ -76,14 +76,10 @@ The results from this year's competition are below:
 The results of the league seed the knockout stage, with the top two teams in
 each match earning a place in the following round.
 
-| Match         | Teams                          |
-| ------------- | ------------------------------ |
-| Qualifier     | **BRK**, **BPV2**, SEN         |
-| Semi Final #1 | BPV, **RGS**, **BPV2**         |
-| Semi Final #2 | **BRK**, **CLY**, SWI          |
-| Final         |  RGS, BPV2, BRK, CLY           |
+{{% knockout-scores "SB2018" %}}
 
-Teams in **bold** were promoted to the next round.
+The overall winners were CLY. The tie for second place was resolved via league
+points. RGS were therefore placed in second and BRK in third. Details of the
+other prizes are available [on our blog][prize-details].
 
-The overall winners were CLY, with RGS in second and BRK in third. Details of
-the other prizes are available [on our blog](/blog/2018-04-23-noo-noo-from-collyers-college-wins-sourcebots-2018/#prizes).
+[prize-details]: /blog/2018-04-23-noo-noo-from-collyers-college-wins-sourcebots-2018/#prizes
