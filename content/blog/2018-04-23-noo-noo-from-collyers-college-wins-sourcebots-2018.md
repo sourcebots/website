@@ -43,10 +43,11 @@ and [the robot][BRK-robot-image] from team _Bodgenhurst_ from
 [CLY-robot-image]: /img/robots-2018/CLY.jpg
 [RGS-robot-image]: /img/robots-2018/RGS.jpg
 
-The final promised to be interesting as each of the robots had fairly different
-approaches. _Out of the Blue_, _Brenda_ and _Bodgenhurst_'s robot each attempted
-to capture tokens in their open front halves by driving up to tokens with their
-arms open, before closing them around the tokens.
+The final promised to be interesting as a variety of different approaches were
+taken by the participating robots. _Out of the Blue_, _Brenda_ and
+_Bodgenhurst_'s robot each attempted to capture tokens in their open front
+halves by driving up to tokens with their arms open, before closing them around
+the tokens.
 
 _Out of the Blue_ extended this strategy by first driving through the tokens in
 their own zone with their arms closed, which pushed some of the undesirable
