@@ -9,6 +9,8 @@ This years competition was streamed live on Facebook, thanks to the university's
 
 {{% facebook-video src="https://www.facebook.com/SUSUtv/videos/vb.159049780794219/1891818877517292/?type=3&theater" title="Livestream" %}}
 
+{{% event-teams "SB2018" %}}
+
 ## Prizes
 
 | Prize          | Team                            |

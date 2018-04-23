@@ -1,0 +1,124 @@
+{
+    "teams": {
+        "BPV": {
+            "get": "/comp-api/teams/BPV",
+            "image_url": "/comp-api/teams/BPV/image",
+            "league_pos": 3,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "Orion",
+            "scores": {
+                "game": -51,
+                "league": 89
+            },
+            "tla": "BPV"
+        },
+        "BPV2": {
+            "get": "/comp-api/teams/BPV2",
+            "image_url": "/comp-api/teams/BPV2/image",
+            "league_pos": 6,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "Brenda",
+            "scores": {
+                "game": -62,
+                "league": 83
+            },
+            "tla": "BPV2"
+        },
+        "BRK": {
+            "get": "/comp-api/teams/BRK",
+            "image_url": "/comp-api/teams/BRK/image",
+            "league_pos": 5,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "Bodgenhurst",
+            "scores": {
+                "game": -55,
+                "league": 87
+            },
+            "tla": "BRK"
+        },
+        "CLY": {
+            "get": "/comp-api/teams/CLY",
+            "image_url": "/comp-api/teams/CLY/image",
+            "league_pos": 4,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "SCC",
+            "scores": {
+                "game": -54,
+                "league": 89
+            },
+            "tla": "CLY"
+        },
+        "RGS": {
+            "get": "/comp-api/teams/RGS",
+            "image_url": "/comp-api/teams/RGS/image",
+            "league_pos": 2,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "Out Of The Blue",
+            "scores": {
+                "game": -15,
+                "league": 106
+            },
+            "tla": "RGS"
+        },
+        "SEN": {
+            "get": "/comp-api/teams/SEN",
+            "image_url": "/comp-api/teams/SEN/image",
+            "league_pos": 7,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "SAS",
+            "scores": {
+                "game": -69,
+                "league": 77
+            },
+            "tla": "SEN"
+        },
+        "SWI": {
+            "get": "/comp-api/teams/SWI",
+            "image_url": "/comp-api/teams/SWI/image",
+            "league_pos": 1,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "WIKZ",
+            "scores": {
+                "game": -51,
+                "league": 109
+            },
+            "tla": "SWI"
+        },
+        "TTN": {
+            "get": "/comp-api/teams/TTN",
+            "image_url": "/comp-api/teams/TTN/image",
+            "league_pos": 8,
+            "location": {
+                "get": "/comp-api/locations/the-cube",
+                "name": "the-cube"
+            },
+            "name": "Richard Taunton Sixth Form College",
+            "scores": {
+                "game": -41,
+                "league": 52
+            },
+            "tla": "TTN"
+        }
+    }
+}
