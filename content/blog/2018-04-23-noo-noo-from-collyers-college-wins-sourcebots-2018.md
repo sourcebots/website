@@ -29,11 +29,11 @@ Once the league was complete, the results from the league seeded a knockout
 stage. While every robot entered the knockouts, it all came down to the final
 match between _[Noo Noo][CLY-robot-image]_ from [Collyer's][collyers] team
 _SCC_, _[Out of the blue][RGS-robot-image]_ from [RGS Guildford][rgs-guidlford],
-_[Brenda][BPV2-robot-image]_ from [Barton Pevril][barton-pevril]'s second team
+_[Brenda][BPV2-robot-image]_ from [Barton Peveril][barton-peveril]'s second team
 and [the robot][BRK-robot-image] from team _Bodgenhurst_ from
 [Brokenhurst][brokenhurst].
 
-[barton-pevril]: https://www.barton-peveril.ac.uk/
+[barton-peveril]: https://www.barton-peveril.ac.uk/
 [brokenhurst]: https://www.brock.ac.uk/
 [collyers]: http://www.collyers.ac.uk/
 [rgs-guidlford]: https://www.rgs-guildford.co.uk/
@@ -69,7 +69,7 @@ zone, which granted their victory.
 | 2<sup>nd</sup> Place  | RGS Guildford — Out Of The Blue |
 | 3<sup>rd</sup> Place  | Brokenhurst — Bodgenhurst       |
 | Most Ambitious        | RGS Guildford — Out Of The Blue |
-| Best Looking          | Barton Pevril — Orion           |
+| Best Looking          | Barton Peveril — Orion          |
 
 ### Livestream
 
