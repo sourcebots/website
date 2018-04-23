@@ -9,6 +9,8 @@ competition event. The two-day event saw their robots compete in forty matches
 to determine which would be crowned champion in this year's game
 _Pirate Islands_.
 
+<!--more-->
+
 ### Competition
 
 The game required the robots to remove opposing tokens from their scoring zone
