@@ -52,7 +52,7 @@ The competition will run over 2 days, starting on Saturday morning at 10:00am, a
 
 [<img src="/img/2018/arena.png" alt="A diagram of the arena" class="right" width="30%">](/img/2018/arena.png "A diagram of the arena, click to see larger")
 
-In this year's game, _Priate Islands_, each robot's scoring zone starts a match
+In this year's game, _Pirate Islands_, each robot's scoring zone starts a match
 containing five tokens which belonged to the team from the opposite corner.
 Robots have to avoid each other, as well as four pedestals placed between the
 scoring zones (see arena diagram).
