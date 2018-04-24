@@ -17,11 +17,10 @@ p a {
 }
 
 /*
- * Competition live styling
+ * Float inline images
  */
-.competition-livestream {
-    margin-bottom: 1em;
-}
-.competition-livestream h1 {
-    margin-bottom: 1em;
+p img.right {
+    float: right;
+    margin: 0.5em;
+    margin-left: 1em;
 }

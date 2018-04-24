@@ -2,8 +2,6 @@
 title: SourceBots — exciting robotics challenges for young people
 ---
 
-{{% competition-livestream %}}
-
 SourceBots is a volunteer organisation which runs exciting robotics challenges
 for teams of young people. These open-ended challenges encourage participants to
 work together to solve problems as well as to manage their time and prioritise

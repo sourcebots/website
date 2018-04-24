@@ -1,0 +1,21 @@
+{{ $event := index .Site.Data.events (.Get 0) }}
+{{ $teams := $event.teams }}
+
+<table>
+    <thead>
+        <th>TLA</th>
+        <th>Name</th>
+        <th>Game Points</th>
+        <th>League Points</th>
+    </thead>
+    <tbody>
+        {{ range $teams }}
+            <tr>
+                <td>{{ .tla }}</td>
+                <td>{{ .name }}</td>
+                <td>{{ .scores.game }}</td>
+                <td>{{ .scores.league }}</td>
+            </tr>
+        {{ end }}
+    </tbody>
+</table>
