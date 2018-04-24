@@ -47,3 +47,41 @@ The competition will run over 2 days, starting on Saturday morning at 10:00am, a
 {{% electronics-laptop-request %}}
 
 {{% food-southampton %}}
+
+## Game overview
+
+[<img src="/img/2018/arena.svg" alt="A diagram of the arena" class="right" width="30%">](/img/2018/arena.svg "A diagram of the arena, click to see larger")
+
+In this year's game, _Pirate Islands_, each robot's scoring zone starts a match
+containing five tokens which belonged to the team from the opposite corner.
+Robots have to avoid each other, as well as four pedestals placed between the
+scoring zones (see arena diagram).
+
+Robots score two points for each of their own tokens in their scoring zone, but
+lose a point for each other token in their scoring zone. Robots also score a
+point for leaving their starting zone. Full details can be found in the
+[rules](/documents/2018/rules.pdf).
+
+## League Scores
+
+League matches make up most of the competition and seed the knockout. Winning a
+match earns 8 league points, coming second earns 6 points, third 4 points and
+last 2 points. Teams not present for a match do not earn any league points. Ties
+are resolved by sharing the league points for the tied positions evenly.
+
+The results from this year's competition are below:
+
+{{% league-scores "SB2018" %}}
+
+## Knockout
+
+The results of the league seed the knockout stage, with the top two teams in
+each match earning a place in the following round.
+
+{{% knockout-scores "SB2018" %}}
+
+The overall winners were CLY. The tie for second place was resolved via league
+points. RGS were therefore placed in second and BRK in third. Details of the
+other prizes are available [on our blog][prize-details].
+
+[prize-details]: /blog/2018-04-23-noo-noo-from-collyers-college-wins-sourcebots-2018/#prizes

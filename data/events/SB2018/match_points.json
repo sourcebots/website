@@ -1,0 +1,1246 @@
+[
+  {
+    "display_name": "Match 0",
+    "num": 0,
+    "scores": {
+      "game": {
+        "BRK": -5,
+        "CLY": -5,
+        "SWI": -4,
+        "TTN": -4
+      },
+      "league": {
+        "BRK": 3,
+        "CLY": 3,
+        "SWI": 7,
+        "TTN": 7
+      },
+      "ranking": {
+        "BRK": 3,
+        "CLY": 3,
+        "SWI": 1,
+        "TTN": 1
+      }
+    },
+    "teams": [
+      "SWI",
+      "BRK",
+      "CLY",
+      "TTN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 1",
+    "num": 1,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "BPV2": -4,
+        "RGS": -5,
+        "SEN": -5
+      },
+      "league": {
+        "BPV": 7,
+        "BPV2": 7,
+        "RGS": 0,
+        "SEN": 4
+      },
+      "ranking": {
+        "BPV": 1,
+        "BPV2": 1,
+        "RGS": 4,
+        "SEN": 3
+      }
+    },
+    "teams": [
+      "SEN",
+      "RGS",
+      "BPV",
+      "BPV2"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 2",
+    "num": 2,
+    "scores": {
+      "game": {
+        "BPV2": -4,
+        "CLY": -4,
+        "SWI": -5,
+        "TTN": -3
+      },
+      "league": {
+        "BPV2": 5,
+        "CLY": 5,
+        "SWI": 2,
+        "TTN": 8
+      },
+      "ranking": {
+        "BPV2": 2,
+        "CLY": 2,
+        "SWI": 4,
+        "TTN": 1
+      }
+    },
+    "teams": [
+      "CLY",
+      "BPV2",
+      "TTN",
+      "SWI"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 3",
+    "num": 3,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "BRK": -5,
+        "RGS": -5,
+        "SEN": -5
+      },
+      "league": {
+        "BPV": 8,
+        "BRK": 6,
+        "RGS": 0,
+        "SEN": 0
+      },
+      "ranking": {
+        "BPV": 1,
+        "BRK": 2,
+        "RGS": 3,
+        "SEN": 3
+      }
+    },
+    "teams": [
+      "SEN",
+      "BPV",
+      "RGS",
+      "BRK"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 4",
+    "num": 4,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "SEN": -5,
+        "SWI": -4,
+        "TTN": -4
+      },
+      "league": {
+        "BPV": 6,
+        "SEN": 0,
+        "SWI": 6,
+        "TTN": 6
+      },
+      "ranking": {
+        "BPV": 1,
+        "SEN": 4,
+        "SWI": 1,
+        "TTN": 1
+      }
+    },
+    "teams": [
+      "SWI",
+      "BPV",
+      "TTN",
+      "SEN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 5",
+    "num": 5,
+    "scores": {
+      "game": {
+        "BPV2": -6,
+        "BRK": -5,
+        "CLY": -4,
+        "RGS": -3
+      },
+      "league": {
+        "BPV2": 2,
+        "BRK": 4,
+        "CLY": 6,
+        "RGS": 8
+      },
+      "ranking": {
+        "BPV2": 4,
+        "BRK": 3,
+        "CLY": 2,
+        "RGS": 1
+      }
+    },
+    "teams": [
+      "BPV2",
+      "RGS",
+      "BRK",
+      "CLY"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 6",
+    "num": 6,
+    "scores": {
+      "game": {
+        "BPV": 3,
+        "CLY": 1,
+        "SWI": -3,
+        "TTN": -5
+      },
+      "league": {
+        "BPV": 8,
+        "CLY": 6,
+        "SWI": 4,
+        "TTN": 2
+      },
+      "ranking": {
+        "BPV": 1,
+        "CLY": 2,
+        "SWI": 3,
+        "TTN": 4
+      }
+    },
+    "teams": [
+      "TTN",
+      "BPV",
+      "SWI",
+      "CLY"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 7",
+    "num": 7,
+    "scores": {
+      "game": {
+        "BPV2": -4,
+        "BRK": -5,
+        "RGS": -3,
+        "SEN": -4
+      },
+      "league": {
+        "BPV2": 5,
+        "BRK": 2,
+        "RGS": 8,
+        "SEN": 5
+      },
+      "ranking": {
+        "BPV2": 2,
+        "BRK": 4,
+        "RGS": 1,
+        "SEN": 2
+      }
+    },
+    "teams": [
+      "BPV2",
+      "BRK",
+      "RGS",
+      "SEN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 8",
+    "num": 8,
+    "scores": {
+      "game": {
+        "BRK": -4,
+        "CLY": -4,
+        "SEN": -4,
+        "SWI": -3
+      },
+      "league": {
+        "BRK": 4,
+        "CLY": 4,
+        "SEN": 4,
+        "SWI": 8
+      },
+      "ranking": {
+        "BRK": 2,
+        "CLY": 2,
+        "SEN": 2,
+        "SWI": 1
+      }
+    },
+    "teams": [
+      "BRK",
+      "SWI",
+      "SEN",
+      "CLY"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 9",
+    "num": 9,
+    "scores": {
+      "game": {
+        "BPV": -3,
+        "BPV2": -4,
+        "RGS": -2,
+        "TTN": -3
+      },
+      "league": {
+        "BPV": 5,
+        "BPV2": 2,
+        "RGS": 8,
+        "TTN": 5
+      },
+      "ranking": {
+        "BPV": 2,
+        "BPV2": 4,
+        "RGS": 1,
+        "TTN": 2
+      }
+    },
+    "teams": [
+      "BPV",
+      "TTN",
+      "RGS",
+      "BPV2"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 10",
+    "num": 10,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "CLY": -2,
+        "RGS": 1,
+        "TTN": 0
+      },
+      "league": {
+        "BPV": 2,
+        "CLY": 4,
+        "RGS": 8,
+        "TTN": 6
+      },
+      "ranking": {
+        "BPV": 4,
+        "CLY": 3,
+        "RGS": 1,
+        "TTN": 2
+      }
+    },
+    "teams": [
+      "TTN",
+      "CLY",
+      "RGS",
+      "BPV"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 11",
+    "num": 11,
+    "scores": {
+      "game": {
+        "BPV2": -4,
+        "BRK": -4,
+        "SEN": -2,
+        "SWI": -3
+      },
+      "league": {
+        "BPV2": 3,
+        "BRK": 3,
+        "SEN": 8,
+        "SWI": 6
+      },
+      "ranking": {
+        "BPV2": 3,
+        "BRK": 3,
+        "SEN": 1,
+        "SWI": 2
+      }
+    },
+    "teams": [
+      "BRK",
+      "BPV2",
+      "SEN",
+      "SWI"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 12",
+    "num": 12,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "CLY": -7,
+        "SEN": -4,
+        "TTN": -1
+      },
+      "league": {
+        "BPV": 5,
+        "CLY": 2,
+        "SEN": 5,
+        "TTN": 8
+      },
+      "ranking": {
+        "BPV": 2,
+        "CLY": 4,
+        "SEN": 2,
+        "TTN": 1
+      }
+    },
+    "teams": [
+      "BPV",
+      "CLY",
+      "TTN",
+      "SEN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 13",
+    "num": 13,
+    "scores": {
+      "game": {
+        "BPV2": 0,
+        "BRK": 0,
+        "RGS": 0,
+        "SWI": 0
+      },
+      "league": {
+        "BPV2": 0,
+        "BRK": 0,
+        "RGS": 0,
+        "SWI": 0
+      },
+      "ranking": {
+        "BPV2": 1,
+        "BRK": 1,
+        "RGS": 1,
+        "SWI": 1
+      }
+    },
+    "teams": [
+      "RGS",
+      "BRK",
+      "SWI",
+      "BPV2"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 14",
+    "num": 14,
+    "scores": {
+      "game": {
+        "BPV2": -4,
+        "RGS": 0,
+        "SWI": -3,
+        "TTN": -4
+      },
+      "league": {
+        "BPV2": 3,
+        "RGS": 8,
+        "SWI": 6,
+        "TTN": 3
+      },
+      "ranking": {
+        "BPV2": 3,
+        "RGS": 1,
+        "SWI": 2,
+        "TTN": 3
+      }
+    },
+    "teams": [
+      "RGS",
+      "BPV2",
+      "SWI",
+      "TTN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 15",
+    "num": 15,
+    "scores": {
+      "game": {
+        "BPV": -5,
+        "BRK": -4,
+        "CLY": -8,
+        "SEN": -2
+      },
+      "league": {
+        "BPV": 4,
+        "BRK": 6,
+        "CLY": 2,
+        "SEN": 8
+      },
+      "ranking": {
+        "BPV": 3,
+        "BRK": 2,
+        "CLY": 4,
+        "SEN": 1
+      }
+    },
+    "teams": [
+      "BRK",
+      "CLY",
+      "SEN",
+      "BPV"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 16",
+    "num": 16,
+    "scores": {
+      "game": {
+        "BPV2": -3,
+        "BRK": -3,
+        "CLY": -4,
+        "SWI": -2
+      },
+      "league": {
+        "BPV2": 5,
+        "BRK": 5,
+        "CLY": 2,
+        "SWI": 8
+      },
+      "ranking": {
+        "BPV2": 2,
+        "BRK": 2,
+        "CLY": 4,
+        "SWI": 1
+      }
+    },
+    "teams": [
+      "SWI",
+      "BRK",
+      "CLY",
+      "BPV2"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 17",
+    "num": 17,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "RGS": -2,
+        "SEN": -6,
+        "TTN": -2
+      },
+      "league": {
+        "BPV": 4,
+        "RGS": 7,
+        "SEN": 2,
+        "TTN": 7
+      },
+      "ranking": {
+        "BPV": 3,
+        "RGS": 1,
+        "SEN": 4,
+        "TTN": 1
+      }
+    },
+    "teams": [
+      "SEN",
+      "RGS",
+      "BPV",
+      "TTN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 18",
+    "num": 18,
+    "scores": {
+      "game": {
+        "BPV2": -3,
+        "BRK": -4,
+        "RGS": -4,
+        "SWI": -3
+      },
+      "league": {
+        "BPV2": 7,
+        "BRK": 3,
+        "RGS": 3,
+        "SWI": 7
+      },
+      "ranking": {
+        "BPV2": 1,
+        "BRK": 3,
+        "RGS": 3,
+        "SWI": 1
+      }
+    },
+    "teams": [
+      "RGS",
+      "BRK",
+      "SWI",
+      "BPV2"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 19",
+    "num": 19,
+    "scores": {
+      "game": {
+        "BRK": -4,
+        "CLY": -3,
+        "RGS": -4,
+        "SEN": -3
+      },
+      "league": {
+        "BRK": 3,
+        "CLY": 7,
+        "RGS": 3,
+        "SEN": 7
+      },
+      "ranking": {
+        "BRK": 3,
+        "CLY": 1,
+        "RGS": 3,
+        "SEN": 1
+      }
+    },
+    "teams": [
+      "RGS",
+      "SEN",
+      "BRK",
+      "CLY"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 20",
+    "num": 20,
+    "scores": {
+      "game": {
+        "BPV": -2,
+        "BPV2": -1,
+        "SWI": -1,
+        "TTN": -4
+      },
+      "league": {
+        "BPV": 4,
+        "BPV2": 7,
+        "SWI": 7,
+        "TTN": 0
+      },
+      "ranking": {
+        "BPV": 3,
+        "BPV2": 1,
+        "SWI": 1,
+        "TTN": 4
+      }
+    },
+    "teams": [
+      "TTN",
+      "SWI",
+      "BPV",
+      "BPV2"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 21",
+    "num": 21,
+    "scores": {
+      "game": {
+        "CLY": -3,
+        "RGS": -5,
+        "SWI": -4,
+        "TTN": -6
+      },
+      "league": {
+        "CLY": 8,
+        "RGS": 4,
+        "SWI": 6,
+        "TTN": 0
+      },
+      "ranking": {
+        "CLY": 1,
+        "RGS": 3,
+        "SWI": 2,
+        "TTN": 4
+      }
+    },
+    "teams": [
+      "SWI",
+      "TTN",
+      "CLY",
+      "RGS"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 22",
+    "num": 22,
+    "scores": {
+      "game": {
+        "BPV": 0,
+        "BPV2": -2,
+        "BRK": 3,
+        "SEN": -4
+      },
+      "league": {
+        "BPV": 6,
+        "BPV2": 4,
+        "BRK": 8,
+        "SEN": 2
+      },
+      "ranking": {
+        "BPV": 2,
+        "BPV2": 3,
+        "BRK": 1,
+        "SEN": 4
+      }
+    },
+    "teams": [
+      "SEN",
+      "BPV",
+      "BPV2",
+      "BRK"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 23",
+    "num": 23,
+    "scores": {
+      "game": {
+        "BPV2": -4,
+        "BRK": -4,
+        "SWI": -4,
+        "TTN": -5
+      },
+      "league": {
+        "BPV2": 6,
+        "BRK": 6,
+        "SWI": 6,
+        "TTN": 0
+      },
+      "ranking": {
+        "BPV2": 1,
+        "BRK": 1,
+        "SWI": 1,
+        "TTN": 4
+      }
+    },
+    "teams": [
+      "TTN",
+      "BRK",
+      "SWI",
+      "BPV2"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 24",
+    "num": 24,
+    "scores": {
+      "game": {
+        "BPV": -2,
+        "CLY": -1,
+        "RGS": -1,
+        "SEN": -4
+      },
+      "league": {
+        "BPV": 4,
+        "CLY": 7,
+        "RGS": 7,
+        "SEN": 2
+      },
+      "ranking": {
+        "BPV": 3,
+        "CLY": 1,
+        "RGS": 1,
+        "SEN": 4
+      }
+    },
+    "teams": [
+      "RGS",
+      "BPV",
+      "SEN",
+      "CLY"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 25",
+    "num": 25,
+    "scores": {
+      "game": {
+        "BPV2": -3,
+        "BRK": -2,
+        "SWI": -1
+      },
+      "league": {
+        "BPV2": 4,
+        "BRK": 6,
+        "SWI": 8
+      },
+      "ranking": {
+        "BPV2": 3,
+        "BRK": 2,
+        "SWI": 1
+      }
+    },
+    "teams": [
+      "SWI",
+      null,
+      "BPV2",
+      "BRK"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 26",
+    "num": 26,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "CLY": 0,
+        "RGS": 2,
+        "SEN": 1
+      },
+      "league": {
+        "BPV": 2,
+        "CLY": 4,
+        "RGS": 8,
+        "SEN": 6
+      },
+      "ranking": {
+        "BPV": 4,
+        "CLY": 3,
+        "RGS": 1,
+        "SEN": 2
+      }
+    },
+    "teams": [
+      "CLY",
+      "SEN",
+      "BPV",
+      "RGS"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 27",
+    "num": 27,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "BRK": -4,
+        "CLY": -5,
+        "SEN": -4
+      },
+      "league": {
+        "BPV": 6,
+        "BRK": 6,
+        "CLY": 2,
+        "SEN": 6
+      },
+      "ranking": {
+        "BPV": 1,
+        "BRK": 1,
+        "CLY": 4,
+        "SEN": 1
+      }
+    },
+    "teams": [
+      "CLY",
+      "SEN",
+      "BPV",
+      "BRK"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 28",
+    "num": 28,
+    "scores": {
+      "game": {
+        "BPV2": -1,
+        "RGS": 5,
+        "SWI": -2
+      },
+      "league": {
+        "BPV2": 6,
+        "RGS": 8,
+        "SWI": 4
+      },
+      "ranking": {
+        "BPV2": 2,
+        "RGS": 1,
+        "SWI": 3
+      }
+    },
+    "teams": [
+      "SWI",
+      "RGS",
+      "BPV2",
+      null
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 29",
+    "num": 29,
+    "scores": {
+      "game": {
+        "BPV2": -4,
+        "CLY": -3,
+        "SEN": -5
+      },
+      "league": {
+        "BPV2": 6,
+        "CLY": 8,
+        "SEN": 4
+      },
+      "ranking": {
+        "BPV2": 2,
+        "CLY": 1,
+        "SEN": 3
+      }
+    },
+    "teams": [
+      "CLY",
+      null,
+      "BPV2",
+      "SEN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 30",
+    "num": 30,
+    "scores": {
+      "game": {
+        "BPV": -5,
+        "BRK": 0,
+        "RGS": 7,
+        "SWI": -3
+      },
+      "league": {
+        "BPV": 2,
+        "BRK": 6,
+        "RGS": 8,
+        "SWI": 4
+      },
+      "ranking": {
+        "BPV": 4,
+        "BRK": 2,
+        "RGS": 1,
+        "SWI": 3
+      }
+    },
+    "teams": [
+      "BPV",
+      "RGS",
+      "SWI",
+      "BRK"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 31",
+    "num": 31,
+    "scores": {
+      "game": {
+        "BPV": -4,
+        "BPV2": -4,
+        "BRK": -3,
+        "CLY": -2
+      },
+      "league": {
+        "BPV": 3,
+        "BPV2": 3,
+        "BRK": 6,
+        "CLY": 8
+      },
+      "ranking": {
+        "BPV": 3,
+        "BPV2": 3,
+        "BRK": 2,
+        "CLY": 1
+      }
+    },
+    "teams": [
+      "BPV2",
+      "BRK",
+      "CLY",
+      "BPV"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 32",
+    "num": 32,
+    "scores": {
+      "game": {
+        "RGS": 6,
+        "SEN": -4,
+        "SWI": -1
+      },
+      "league": {
+        "RGS": 8,
+        "SEN": 4,
+        "SWI": 6
+      },
+      "ranking": {
+        "RGS": 1,
+        "SEN": 3,
+        "SWI": 2
+      }
+    },
+    "teams": [
+      null,
+      "SEN",
+      "RGS",
+      "SWI"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 33",
+    "num": 33,
+    "scores": {
+      "game": {
+        "BPV": 2,
+        "BRK": -1,
+        "CLY": 2,
+        "RGS": -5
+      },
+      "league": {
+        "BPV": 7,
+        "BRK": 4,
+        "CLY": 7,
+        "RGS": 2
+      },
+      "ranking": {
+        "BPV": 1,
+        "BRK": 3,
+        "CLY": 1,
+        "RGS": 4
+      }
+    },
+    "teams": [
+      "CLY",
+      "BPV",
+      "BRK",
+      "RGS"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 34",
+    "num": 34,
+    "scores": {
+      "game": {
+        "BPV2": -4,
+        "SEN": -6,
+        "SWI": -2
+      },
+      "league": {
+        "BPV2": 6,
+        "SEN": 4,
+        "SWI": 8
+      },
+      "ranking": {
+        "BPV2": 2,
+        "SEN": 3,
+        "SWI": 1
+      }
+    },
+    "teams": [
+      "BPV2",
+      "SWI",
+      "SEN",
+      null
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 35",
+    "num": 35,
+    "scores": {
+      "game": {
+        "BPV": -3,
+        "SEN": -3,
+        "SWI": -3
+      },
+      "league": {
+        "BPV": 6,
+        "SEN": 6,
+        "SWI": 6
+      },
+      "ranking": {
+        "BPV": 1,
+        "SEN": 1,
+        "SWI": 1
+      }
+    },
+    "teams": [
+      "BPV",
+      null,
+      "SWI",
+      "SEN"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Match 36",
+    "num": 36,
+    "scores": {
+      "game": {
+        "BPV2": -3,
+        "BRK": -1,
+        "CLY": -2,
+        "RGS": 3
+      },
+      "league": {
+        "BPV2": 2,
+        "BRK": 6,
+        "CLY": 4,
+        "RGS": 8
+      },
+      "ranking": {
+        "BPV2": 4,
+        "BRK": 2,
+        "CLY": 3,
+        "RGS": 1
+      }
+    },
+    "teams": [
+      "CLY",
+      "RGS",
+      "BPV2",
+      "BRK"
+    ],
+    "type": "league"
+  },
+  {
+    "display_name": "Qualifier (#37)",
+    "num": 37,
+    "scores": {
+      "game": {
+        "BPV2": 3,
+        "BRK": -4,
+        "SEN": -5
+      },
+      "normalised": {
+        "BPV2": 8,
+        "BRK": 6,
+        "SEN": 4
+      },
+      "ranking": {
+        "BPV2": 1,
+        "BRK": 2,
+        "SEN": 3
+      }
+    },
+    "teams": [
+      "BRK",
+      "BPV2",
+      "SEN",
+      null
+    ],
+    "type": "knockout"
+  },
+  {
+    "display_name": "Semi 1 (#38)",
+    "num": 38,
+    "scores": {
+      "game": {
+        "BPV": -5,
+        "BPV2": 1,
+        "RGS": 8
+      },
+      "normalised": {
+        "BPV": 4,
+        "BPV2": 6,
+        "RGS": 8
+      },
+      "ranking": {
+        "BPV": 3,
+        "BPV2": 2,
+        "RGS": 1
+      }
+    },
+    "teams": [
+      null,
+      "RGS",
+      "BPV",
+      "BPV2"
+    ],
+    "type": "knockout"
+  },
+  {
+    "display_name": "Semi 2 (#39)",
+    "num": 39,
+    "scores": {
+      "game": {
+        "BRK": 3,
+        "CLY": 0,
+        "SWI": -4
+      },
+      "normalised": {
+        "BRK": 8,
+        "CLY": 6,
+        "SWI": 4
+      },
+      "ranking": {
+        "BRK": 1,
+        "CLY": 2,
+        "SWI": 3
+      }
+    },
+    "teams": [
+      "BRK",
+      null,
+      "CLY",
+      "SWI"
+    ],
+    "type": "knockout"
+  },
+  {
+    "display_name": "Final (#40)",
+    "num": 40,
+    "scores": {
+      "game": {
+        "BPV2": -6,
+        "BRK": -3,
+        "CLY": 0,
+        "RGS": -3
+      },
+      "normalised": {
+        "BPV2": 2,
+        "BRK": 5,
+        "CLY": 8,
+        "RGS": 5
+      },
+      "ranking": {
+        "BPV2": 4,
+        "BRK": 2,
+        "CLY": 1,
+        "RGS": 2
+      }
+    },
+    "teams": [
+      "RGS",
+      "BPV2",
+      "BRK",
+      "CLY"
+    ],
+    "type": "knockout"
+  }
+]

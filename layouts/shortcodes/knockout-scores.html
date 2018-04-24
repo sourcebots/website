@@ -1,0 +1,29 @@
+{{ $event := index .Site.Data.events (.Get 0) }}
+{{ $match_points := $event.match_points }}
+
+{{ range $match := where $match_points ".type" "knockout" }}
+    <h3>{{ $match.display_name }}</h3>
+
+    <table>
+        <thead>
+            <th>Corner</th>
+            <th>TLA</th>
+            <th>Game Points</th>
+            <th>Position</th>
+        </thead>
+        <tbody>
+            {{ range $index, $tla := $match.teams }}
+                <tr>
+                    <td>{{ $index }}</td>
+                    {{ if $tla }}
+                        <td>{{ $tla }}</td>
+                        <td>{{ index $match.scores.game . }}</td>
+                        <td>{{ index $match.scores.ranking . }}</td>
+                    {{ else }}
+                        <td colspan="3">&mdash;</td>
+                    {{ end }}
+                </tr>
+            {{ end }}
+        </tbody>
+    </table>
+{{ end }}
