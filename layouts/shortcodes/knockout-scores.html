@@ -1,8 +1,7 @@
 {{ $event := index .Site.Data.events (.Get 0) }}
 {{ $match_points := $event.match_points }}
 
-{{ range $match := $match_points }}
-    {{ if eq .type "knockout" }}
+{{ range $match := where $match_points ".type" "knockout" }}
     <h3>{{ $match.display_name }}</h3>
 
     <table>
@@ -27,5 +26,4 @@
             {{ end }}
         </tbody>
     </table>
-    {{ end }}
 {{ end }}
