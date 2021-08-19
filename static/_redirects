@@ -1,3 +1,4 @@
 /meet https://meet.google.com/zrm-ebaz-sap
 /signup https://eepurl.com/dJrUZk
 /comp/*  https://sourcebots-comp.netlify.app/comp/:splat  200!
+/  https://sourcebots-comp.netlify.app/comp/  200!
