@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sourcebots/website#readme",
   "dependencies": {
-    "broken-link-checker-local": "0.1.1",
+    "broken-link-checker-local": "^0.2.0",
     "markdown-spellcheck": "1.0.0"
   }
 }
